@@ -11,6 +11,11 @@ fun main(args: Array<String>){
     var a6: Short = 1 //16
     var a7: Byte = 1 //8
 
+    //CAST
+    var a8: Long = a3.toLong()
+
+    var a9: Char = 'a'
+    var a10: Boolean = false
 
 
 }
